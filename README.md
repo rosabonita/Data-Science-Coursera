@@ -1,2 +1,3 @@
-# datasciencecoursera
-This repo will contain all of my work from the Coursera Data Science Signature Track.
+# Data Science Coursera
+
+Work created during the course of the Coursera Data Science track.
